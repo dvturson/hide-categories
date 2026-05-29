@@ -6,6 +6,11 @@
         "radio": "*",
         "microphone": "*"
     },
+    "coreCategories": [
+        "basic",
+        "input",
+        "music"
+    ],
     "files": [
         "main.blocks",
         "main.ts",
