@@ -1,4 +1,4 @@
-//% deprecated=true
+//% deprecated=false
 namespace music {
 }
 
