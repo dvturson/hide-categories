@@ -37,3 +37,7 @@ namespace input {
 //% deprecated=true
 namespace basic {
 }
+
+//% deprecated=true
+namespace math {
+}
