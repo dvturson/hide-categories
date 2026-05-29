@@ -39,5 +39,5 @@ namespace basic {
 }
 
 //% deprecated=true
-namespace math {
+namespace loops {
 }
